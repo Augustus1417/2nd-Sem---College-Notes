@@ -1,0 +1,22 @@
+{
+	"nodes":[
+		{"id":"5cca09636b366326","type":"text","text":"","x":-113,"y":0,"width":250,"height":60},
+		{"id":"a4e40ae22438cf5f","type":"text","text":"Decide on the data structure, algorithm design","x":-104,"y":100,"width":233,"height":86},
+		{"id":"2ed915837a0f3674","type":"text","text":"Understand the problem","x":-124,"y":0,"width":273,"height":60},
+		{"id":"cb7449b2c93072c9","type":"text","text":"Design an algorithm","x":-112,"y":220,"width":250,"height":60},
+		{"id":"86852163397dd065","type":"text","text":"Prove correctness of algorithm","x":-112,"y":320,"width":250,"height":60},
+		{"id":"b8310d76f4e0881c","type":"text","text":"Analyze the algorithm","x":-112,"y":420,"width":250,"height":60},
+		{"id":"07a92ba5cc634c40","x":-112,"y":520,"width":250,"height":60,"type":"text","text":"Code the program"}
+	],
+	"edges":[
+		{"id":"7a9f9f2423921567","fromNode":"2ed915837a0f3674","fromSide":"bottom","toNode":"a4e40ae22438cf5f","toSide":"top"},
+		{"id":"5dbdc49fb27dd6d9","fromNode":"a4e40ae22438cf5f","fromSide":"bottom","toNode":"cb7449b2c93072c9","toSide":"top"},
+		{"id":"2b1085174b46f8a5","fromNode":"cb7449b2c93072c9","fromSide":"bottom","toNode":"86852163397dd065","toSide":"top"},
+		{"id":"98cbfb8e348b3371","fromNode":"86852163397dd065","fromSide":"bottom","toNode":"b8310d76f4e0881c","toSide":"top"},
+		{"id":"c66755bbdb35bb37","fromNode":"b8310d76f4e0881c","fromSide":"bottom","toNode":"07a92ba5cc634c40","toSide":"top"},
+		{"id":"914e9c586f324d61","fromNode":"b8310d76f4e0881c","fromSide":"right","toNode":"a4e40ae22438cf5f","toSide":"right"},
+		{"id":"da8a2a47748961a0","fromNode":"b8310d76f4e0881c","fromSide":"right","toNode":"cb7449b2c93072c9","toSide":"right"},
+		{"id":"09c83074aba11f06","fromNode":"86852163397dd065","fromSide":"left","toNode":"a4e40ae22438cf5f","toSide":"left"},
+		{"id":"654df774ae5e6c88","fromNode":"86852163397dd065","fromSide":"left","toNode":"cb7449b2c93072c9","toSide":"left"}
+	]
+}
