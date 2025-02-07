@@ -6,17 +6,60 @@
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": true,
-  "colorGroups": [],
-  "collapse-display": false,
+  "colorGroups": [
+    {
+      "query": "path:\"Algorithms and Complexity\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14555987
+      }
+    },
+    {
+      "query": "path:\"Probability and Statistics\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "path:\"Science, Technology, and Society\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 4644168
+      }
+    },
+    {
+      "query": "path:\"Information Management\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 11937757
+      }
+    },
+    {
+      "query": "path:\"Mobile Programming\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 3375334
+      }
+    },
+    {
+      "query": "path:\"Reading Visual Arts\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 15628587
+      }
+    }
+  ],
+  "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0.6,
   "nodeSizeMultiplier": 2.44071942446043,
   "lineSizeMultiplier": 3.68158273381295,
-  "collapse-forces": false,
+  "collapse-forces": true,
   "centerStrength": 0.474409044193217,
   "repelStrength": 13.6978417266187,
   "linkStrength": 1,
   "linkDistance": 131,
-  "scale": 1.178797741600463,
+  "scale": 0.9077114499267613,
   "close": true
 }
