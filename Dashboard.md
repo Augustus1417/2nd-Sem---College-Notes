@@ -1,4 +1,4 @@
-**Courses**
+### Courses
 - [[Algorithms and Complexity]]
 - [[Information Management]]
 - [[Mobile Programming]]

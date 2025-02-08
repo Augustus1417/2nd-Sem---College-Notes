@@ -3,18 +3,18 @@
 	- includes writing code to create the software and designing
 	- biggest difference between software development is the ability to use native features on mobile devices
 
-**Types of Mobile App Frameworks**
-- *Native Apps*
+##### Types of Mobile App Frameworks
+- **Native Apps**
 	- designed for specific operating systems. Makes use of device features such as RAM, camera, etc
 	- *Performance*: High (optimized for platform)
-- *Progressive Web Apps (PWAs)*
+- **Progressive Web Apps (PWAs)**
 	- brings the power of the web to mobile, providing an app-like experience without requiring installation. developed with web technology (HTML...)
 	- *Performance*: Moderate
-- *Hybrid Apps*
+- **Hybrid Apps**
 	- combination of both types, offers cross-compatibility
 	- *Performance*: Lower than native
 	
-**Developing mobile apps**
+##### Developing mobile apps
 **For IOS**
 - *Objective C* - first language supported by Apple
 - *Swift* - introduced in 2014 as a language specification
@@ -22,7 +22,7 @@
 **For Android**
 - *Java* - default language to write Android apps since the platform was introduced in 2008
 - *Kotlin* - released in 2017, is interoperable with Java code, all Java libraries can be called from Kotlin. Tidier form of Java
-
+	
 **Mobile App Architecture**
 - is the blueprint of building your app
 1. *Presentation Layer* 

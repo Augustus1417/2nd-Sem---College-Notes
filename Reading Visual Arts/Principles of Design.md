@@ -1,4 +1,4 @@
-**Principles of Design** 
+##### Principles of Design 
 - organizations of elements that work to give unity
 - fundamental concepts that guide the arrangements and organization of elements
 

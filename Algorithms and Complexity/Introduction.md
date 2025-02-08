@@ -18,16 +18,15 @@
 - it is useful in developing analytical skills
 - algorithms can be seen as special kinds of solutions to unanswered problems
 
-**Examples Algorithmic Process**
-- **Search Engine Algorithm** - can rank web pages based on relevance, keywords, backlinks, and user engagement
-- **Social Media Feed Algorithm** - decides what posts appear on your feed
-- **Sorting Algorithms** - used in computer science to arrange data
-- **Machine Learning Algorithm** - example: spam email filtering
-- **Recommendation Algorithm** - suggest content based on user preferences
-- **Navigation Algorithm** - find the shortest route to a destination
+##### Examples Algorithmic Process
+- *Search Engine Algorithm* - can rank web pages based on relevance, keywords, backlinks, and user engagement
+- *Social Media Feed Algorithm* - decides what posts appear on your feed
+- *Sorting Algorithms* - used in computer science to arrange data
+- *Machine Learning Algorithm* - example: spam email filtering
+- *Recommendation Algorithm* - suggest content based on user preferences
+- *Navigation Algorithm* - find the shortest route to a destination
 
-**Notion of Algorithmic Process**
-
+##### Notion of Algorithmic Process
 [[Notion of an Algorithm.canvas|Notion of an Algorithm]]
 - **Problem**
 - **Algorithm**
@@ -35,23 +34,22 @@
 - **Computer**
 - **Output**
 
-**Representing Algorithm in Programming**
-- **Pseudocode** - structured english used to specify an algorithm
-- **Flowchart** - diagramatic representation that illustrates sequence
+##### Representing Algorithm in Programming
+- *Pseudocode* - structured english used to specify an algorithm
+- *Flowchart* - diagramatic representation that illustrates sequence
 
-- **Sequential Algorithm** - instructions are one after another
-- **Parallel Algorithm** - all instructions are executed concurrently
+- *Sequential Algorithm* - instructions are one after another
+- *Parallel Algorithm* - all instructions are executed concurrently
 
-- **Exact Algorithm** - used to find exact solutions
-- **Approximate Algorithm** - used to find approximate solutions
+- *Exact Algorithm* - used to find exact solutions
+- *Approximate Algorithm* - used to find approximate solutions
 
 **Algorithms** + **Data Structures** = **Programs**
 
 **Algorithm Design Technique** - General approach to solving problems algorithmically that is applicable to a variety of problems
 
-**Analyzing Algorithms**
-
-Qualities to consider:
+##### Analyzing Algorithms
+**Qualities to consider:**
 1. *Correctness* - must produce the correct output for all valid inputs
 2. *Efficiency* (Time complexity) - measures how fast the algorithm runs based on input size
 3. *Space Complexity* - measures how much memory the algorithm uses

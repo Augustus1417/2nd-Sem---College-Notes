@@ -6,4 +6,3 @@
 - Android team opted for desert names for versions
 
 **Android Versions**
-- insert mo later

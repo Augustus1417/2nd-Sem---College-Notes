@@ -2,7 +2,7 @@
 - are a broad category that encompasses all forms of artistic expression that appeal to the sense of sight
 - are a powerful tool for communications, self-expression, and storytelling.
 
-**Basic Primary Elements of Visual Arts**
+##### Basic Primary Elements of Visual Arts
 - **Line** 
 	- a continuous mark made on surface by a moving point
 	- can be straight, curved, horizontal, vertical, diagonal, etc.

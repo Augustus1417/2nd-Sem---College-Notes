@@ -1,4 +1,4 @@
-**General Concepts and STS Historical Development**
+#### General Concepts and STS Historical Development
 - **Science** 
 		- branch of knowledge that investigates the natural phenomena around us by observing them.
 		- product of human intellect
