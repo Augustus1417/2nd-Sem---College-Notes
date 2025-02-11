@@ -41,6 +41,6 @@
 - *Development framework* - vital for efficient application development and maintenance
 - *Bandwidth* - impacts how app communicates with servers and fetches data
 - *Network fluctuations* - mobile networks are prone to varying signal strength and stability fluctuations, which can affect app performance 
-- *User interface* - plays a crucial role in shaping overall user experience
+- *User interface* - plays a crucial role in shaping overall user experiencej
 - *Navigation Method* - defines how users navigate your app and access its features and content
 - *Real-time updates vs. push notifications* - deciding between the two depends on the nature of your app and the importance of timely information delivery

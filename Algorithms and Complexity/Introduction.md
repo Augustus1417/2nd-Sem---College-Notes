@@ -67,5 +67,5 @@
 - *String processing* - deals with non-numeric that intensifies interest of researchers
 - *Graph* - deals with objects and their connections
 - *Combinatorial* - permutations
-- *Geeometrical* - points, lines, polygons for computer graphics 
+- *Geometrical* - points, lines, polygons for computer graphics 
 - *Numerical* - mathematical problems

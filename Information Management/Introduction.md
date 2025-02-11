@@ -41,11 +41,11 @@
 			- *restrictions* placed on data
 
 
-SQL
+**SQL**
 - language used to operate database
 - basic language used for all the databases
 
-MySQL
+**MySQL**
 - is a relational database management system based on the SQL
 
 Difference 
