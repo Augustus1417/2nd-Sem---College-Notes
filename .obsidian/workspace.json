@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Probability and Statistics/Frequency Distribution.md",
-                "mode": "preview",
+                "file": "Information Management/Introduction.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Frequency Distribution"
+              "title": "Introduction"
             }
           }
         ],
@@ -180,17 +180,18 @@
   },
   "active": "109ddaa10ce4cdd9",
   "lastOpenFiles": [
+    "Information Management/Information Management.md",
+    "Probability and Statistics/Frequency Distribution.md",
+    "Probability and Statistics/Data.md",
+    "Probability and Statistics/Introduction.md",
     "Probability and Statistics/Probability and Statistics.md",
+    "Information Management/Introduction.md",
+    "Algorithms and Complexity/Notion of an Algorithm.canvas",
+    "Algorithms and Complexity/Algorithm Design Technique.md",
     "Dashboard.md",
     "Algorithms and Complexity/Algorithms and Complexity.md",
     "Algorithms and Complexity/Algorithm Analysis.md",
-    "Probability and Statistics/Frequency Distribution.md",
-    "Algorithms and Complexity/Algorithm Design Technique.md",
     "Algorithms and Complexity/Introduction.md",
-    "Information Management/Information Management.md",
-    "Information Management/Introduction.md",
-    "Probability and Statistics/Introduction.md",
-    "Probability and Statistics/Data.md",
     "Mobile Programming/Mobile Programming.md",
     "Mobile Programming/Introduction.md",
     "Mobile Programming/Android Ecosystem.md",
@@ -201,7 +202,6 @@
     "Reading Visual Arts/Principles of Design.md",
     "Reading Visual Arts/Introduction.md",
     "Reading Visual Arts/Art of Colors.md",
-    "Algorithms and Complexity/Notion of an Algorithm.canvas",
     "Untitled.md",
     "Mobile Programming/Test.md",
     "2025-02-06.md",
@@ -209,7 +209,6 @@
     "Untitled.canvas",
     "Probability and Statistics",
     "Mobile Programming.md",
-    "Information Management.md",
     "Mobile Programming",
     "Information Management",
     "Algorithms and Complexity",

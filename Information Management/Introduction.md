@@ -1,4 +1,4 @@
-- **Database**
+z- **Database**
 	- collection of related data and its metadata organized in a structured format
 - **DBMS (Database Management System)**
 	- software that enables easy creation, access, and modification of databases

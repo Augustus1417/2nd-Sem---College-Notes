@@ -14,6 +14,6 @@ Steps:
 3. *merge sub-arrays*
 
 **Binary Tree Traversal**
-- *Pre-order Traversal* = ==Root -> Left -> Right==
-- *In-order Traversal* = ==Left -> Root -> Right==
-- *Post-order Traversal* = ==Left -> Right -> Root==
+- *Pre-order Traversal* = Root -> Left -> Right
+- *In-order Traversal* = Left -> Root -> Right
+- *Post-order Traversal* = Left -> Right -> Root
