@@ -1,4 +1,4 @@
-- Is a cross platform, statically types, general purpose programming language
+- Is a cross platform, statically typed, general purpose programming language
 - is designed to interoperate fully with java
 
 ##### Data Types
