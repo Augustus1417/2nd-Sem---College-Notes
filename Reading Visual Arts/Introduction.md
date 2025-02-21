@@ -1,4 +1,4 @@
-**Visual Arts**
+##### Visual Arts
 - are a broad category that encompasses all forms of artistic expression that appeal to the sense of sight
 - are a powerful tool for communications, self-expression, and storytelling.
 
