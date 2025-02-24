@@ -43,5 +43,7 @@ Factors affecting time complexity
 **Frequency Count** - refers to the number of statements or steps needed by the algorithm to finish
 
 Simple statement: 
-	a = 10 (Count: 1)
-	b = a * 5 (Count: 1)
+``` python
+	a = 10 # (Count: 1)
+	b = a * 5 # (Count: 1)
+```

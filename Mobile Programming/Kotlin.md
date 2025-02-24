@@ -7,7 +7,6 @@
 - **Double**
 - **Float**
 - **Boolean**
-
 ##### Variables
 **Immutable Variables**
 - read-only variables, cannot change
