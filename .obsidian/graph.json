@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "path:\"Algorithms and Complexity\"  ",
@@ -62,11 +62,11 @@
   "textFadeMultiplier": 0.6,
   "nodeSizeMultiplier": 2.44071942446043,
   "lineSizeMultiplier": 3.68158273381295,
-  "collapse-forces": true,
+  "collapse-forces": false,
   "centerStrength": 0.474409044193217,
-  "repelStrength": 13.6978417266187,
+  "repelStrength": 18.6977582516616,
   "linkStrength": 1,
   "linkDistance": 131,
-  "scale": 0.5082638477358423,
+  "scale": 0.2496422572773121,
   "close": true
 }
