@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Probability and Statistics/Measures of Central Tendency.md",
+                "file": "Information Management/Data, Information, and Management.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Measures of Central Tendency"
+              "title": "Data, Information, and Management"
             }
           }
         ],
@@ -79,7 +79,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "8851b3aa5cfcb98b",
@@ -166,22 +167,23 @@
   },
   "active": "95a1c32e5d723a5a",
   "lastOpenFiles": [
+    "Information Management/Information Management.md",
+    "Information Management/Introduction.md",
+    "Dashboard.md",
+    "Information Management/Data, Information, and Management.md",
+    "Science, Technology, and Society/Science, Technology, and Society.md",
+    "Probability and Statistics/Measures of Central Tendency.md",
     "Probability and Statistics/Probability and Statistics.md",
     "Probability and Statistics/Frequency Distribution.md",
-    "Probability and Statistics/Measures of Central Tendency.md",
     "Mobile Programming/Kotlin.md",
     "Mobile Programming/Mobile Programming.md",
-    "Dashboard.md",
     "Mobile Programming/Android Ecosystem.md",
     "Algorithms and Complexity/Algorithm Analysis.md",
     "Algorithms and Complexity/Algorithms and Complexity.md",
     "Reading Visual Arts/Introduction.md",
-    "Information Management/Information Management.md",
-    "Information Management/Data and Information.md",
     "Algorithms and Complexity/Introduction.md",
     "Algorithms and Complexity/Notion of an Algorithm.canvas",
     "Algorithms and Complexity/Algorithm Design Technique.md",
-    "Science, Technology, and Society/Science, Technology, and Society.md",
     "Science, Technology, and Society/Government.md",
     "Science, Technology, and Society/Introduction.md",
     "Mobile Programming/Android Development.md",
@@ -189,7 +191,6 @@
     "Reading Visual Arts/Art of Colors.md",
     "Reading Visual Arts/Principles of Design.md",
     "Reading Visual Arts/Reading Visual Arts.md",
-    "Information Management/Introduction.md",
     "Probability and Statistics/Data.md",
     "Probability and Statistics/Introduction.md",
     "Science, Technology, and Society/History.md",

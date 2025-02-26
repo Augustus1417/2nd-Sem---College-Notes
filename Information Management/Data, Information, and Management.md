@@ -1,0 +1,102 @@
+#### Data 
+- can be defined as a representation of facts, concepts or instructions in a formalized manner, which would be suitable for *communication, interpretation, or processing by human or electronic machine.*
+- Driven by User
+- created by *Individuals* and *Businesses*
+##### Categories of Data
+- **Structured** - data that are managed and organized
+	- Databases
+	- Spreadsheets
+- **Unstructured** - data that are not organized
+	- Forms
+	- Images
+	- Audio
+	- Videos/Movies
+
+*80% of information are unstructured*
+##### Transformation of Data into Information
+1. *Summarizing the data*
+2. *Averaging the data* 
+3. *Selecting part of the data* 
+4. *Graphing the data* 
+5. *Adding context*
+6. *Adding value*
+
+#### Information
+- is a set of data which is processed in a meaningful way according to the given requirement
+
+##### Where does Data & Information come from?
+Companies can get data from the following:
+- **Legacy Systems** - used for data that has been *piling up for a long time*. (learning management, employee records)
+- **Data Creation** - Transactions, manufacturing, making payments, purchasing, and employee reviews. 
+- **Data Collection** - Data that *comes from external sources*. (weather trends, news reports)
+##### Today's Information Corpus
+- *Files*
+- *Databases*
+- *E-mail*
+- *Instant Messaging*
+- *Electronic Publishing*
+
+#### Management
+- the organization of and control over the structure, processing, and delivery of information.
+- According to *Theo Heimann*, management has three different meanings;
+	- **Noun** - *group of managers*
+	- **Process** - *functions of Management* (Planning, Organizing, Directing, Controlling)
+	- **Discipline** - *subject of Management*
+##### 6 M's of Management
+- *Manpower*
+- *Money*
+- *Machines*
+- *Materials*
+- *Methods*
+- *Markets*
+
+#### Information Management 
+- is the *collection and management of information from one or more sources* and the distribution of that information to one or more audiences.
+- is the *management of organizational processes and systems* that acquire, create, organize, distribute, and use information
+- it is a continuous cycle of:
+	- *identification of information needs*
+	- *acquisition and creation of information*
+	- *analysis and interpretation of information*
+	- *organization and storage of information*
+	- *information access and dissemination*
+	- *information use*
+
+##### Why is IM important?
+1. Managing your information *saves you money*
+2. Managing your information *makes you money*
+3. Managing your information *keeps you out of trouble*
+
+##### Key Components of IM
+- **People** - those *involved in IM*, and also *creators* and *users* of data and information.
+- **Culture** - Information culture that is *conducive* to information management
+- **Policies and Processes** - *rules* that determine who has access to what, how to store/secure information, timeframes for archiving/deleting.
+- **Technology** - *physical items* that store data and information.
+- **Content (Data and Information)** - what *the rest* of the components use.
+
+##### Goals of Information Management 
+- Supply work, business and consumption processes with information
+- Improve and speed up business work and consumption process through information use and efficient information processing
+- Create and maintain competitive advantage through new, IT based work and business processes
+- Efficient use of organizations information assets
+- Reduce unnecessary complexity of information processing systems; protect against information overload.
+
+##### Information Management Challenges
+- **Exploding digital universe**
+	- the rate of growth is increasing exponentially due to duplication of data and repurposing has contributed to the increase of information growth.
+- **Increasing dependency on information** 
+	- Strategic use of information plays important role in determining the success of a business.
+- **Changing value of information**
+	- Information that are valuable today would become less important tomorrow. Value often changes over time.
+
+##### 5 Stages of Data Life-cycle Management
+- *Data Creation*
+- *Storage*
+- *Usage*
+- *Archival*
+- *Destruction*
+##### Stages in Information Management 
+- Information *Planning*
+- Information *Capture*
+- Information *Storage*
+- Information *Reporting*
+- Information *Archiving*
