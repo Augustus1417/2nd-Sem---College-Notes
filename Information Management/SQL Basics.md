@@ -141,3 +141,5 @@ ALTER TABLE table_name MODIFY column_name new_data_type;
 ```sql
 DROP TABLE table_name;
 ```
+
+**Try this exercise**: [[SQL Challenge]]

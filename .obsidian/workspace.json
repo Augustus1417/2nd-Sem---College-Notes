@@ -8,13 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "95a1c32e5d723a5a",
+            "id": "1003bb1cf6f58452",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Information Management/Information Management.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -164,13 +164,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "95a1c32e5d723a5a",
+  "active": "1003bb1cf6f58452",
   "lastOpenFiles": [
-    "Information Management/Database Systems.md",
-    "Information Management/SQL Basics.md",
-    "Information Management/Data, Information, and Management.md",
-    "Information Management/Information Management.md",
     "Information Management/Introduction.md",
+    "Information Management/SQL Basics.md",
+    "Information Management/SQL Challenge.md",
+    "Information Management/Information Management.md",
+    "Information Management/Database Systems.md",
+    "Information Management/Data, Information, and Management.md",
     "Dashboard.md",
     "Science, Technology, and Society/Science, Technology, and Society.md",
     "Probability and Statistics/Measures of Central Tendency.md",
@@ -192,7 +193,6 @@
     "Reading Visual Arts/Art of Colors.md",
     "Reading Visual Arts/Principles of Design.md",
     "Reading Visual Arts/Reading Visual Arts.md",
-    "Probability and Statistics/Data.md",
     "Reading Visual Arts",
     "Untitled.canvas",
     "Probability and Statistics",
