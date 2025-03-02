@@ -5,3 +5,4 @@
 - [[Probability and Statistics]]
 - [[Science, Technology, and Society]]
 - [[Reading Visual Arts]]
+- [[Readings in Philippine History]]
