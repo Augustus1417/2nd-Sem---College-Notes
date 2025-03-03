@@ -1,0 +1,80 @@
+{
+  "cascadeColors": false,
+  "colorBackground": false,
+  "palette": [
+    {
+      "id": "L6Rcn_YcG3MTZoBcEvsOW",
+      "name": "Red",
+      "value": "#f38ba8"
+    },
+    {
+      "id": "n-caIaWj6wOcrLTiuuQ6n",
+      "name": "Lavender",
+      "value": "#b4befe"
+    },
+    {
+      "id": "VNDkdykJCrliCTvFBj3mz",
+      "name": "Green",
+      "value": "#a6e3a1"
+    },
+    {
+      "id": "iqvfl3lWsnX_oWwtrfHGU",
+      "name": "Yellow",
+      "value": "#f9e2af"
+    },
+    {
+      "id": "qNtYoO01pe-texHFQZJpk",
+      "name": "Peach",
+      "value": "#fab387"
+    },
+    {
+      "id": "-f11ez5FQiiT2mUATUjq6",
+      "name": "Sapphire",
+      "value": "#74c7ec"
+    },
+    {
+      "id": "Cys7nk1t4amtqJyS_i7pm",
+      "name": "Blue",
+      "value": "#b4befe"
+    },
+    {
+      "id": "2JSqWmntblsgUNaSojxMg",
+      "name": "Text",
+      "value": "#cdd6f4"
+    }
+  ],
+  "fileColors": [
+    {
+      "path": "Algorithms and Complexity",
+      "color": "L6Rcn_YcG3MTZoBcEvsOW"
+    },
+    {
+      "path": "Information Management",
+      "color": "n-caIaWj6wOcrLTiuuQ6n"
+    },
+    {
+      "path": "Probability and Statistics",
+      "color": "iqvfl3lWsnX_oWwtrfHGU"
+    },
+    {
+      "path": "Reading Visual Arts",
+      "color": "qNtYoO01pe-texHFQZJpk"
+    },
+    {
+      "path": "Mobile Programming",
+      "color": "-f11ez5FQiiT2mUATUjq6"
+    },
+    {
+      "path": "Readings in Philippine History",
+      "color": "2JSqWmntblsgUNaSojxMg"
+    },
+    {
+      "path": "Dashboard.md",
+      "color": "Cys7nk1t4amtqJyS_i7pm"
+    },
+    {
+      "path": "Science, Technology, and Society",
+      "color": "VNDkdykJCrliCTvFBj3mz"
+    }
+  ]
+}

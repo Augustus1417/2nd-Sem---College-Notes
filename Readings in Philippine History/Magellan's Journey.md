@@ -1,8 +1,10 @@
 ##### People in Magellan's Journey
 **Ferdinand Magellan** (1480 - 1521)
 - Portuguese Explorer that set out from Spain in 1519 with a fleet of five ships to discover a western sea route to the Spice Islands.
+
 **Antonio Pigafetta**
 - Magellan's assistant and was also a writer
+
 **Juan Sebastian Elcano** (1487 - August 4, 1526)
 - Spanish (Basque) sailor that took over after Magellan's death
 
@@ -13,7 +15,7 @@
 - **The ships**: 
 	- *Santiago*
 	- *San Antonio*
-	- *Conception*
+	- *Concepcion*
 	- *Trinidad*
 	- *Victoria*
 - **March 1521** - Magellan landed in *Homonhon, Eastern Samar Island*
@@ -29,7 +31,7 @@
 - 8 of his own men and 4 native allies died with him.
 
 ##### After Magellan's Death
-- Navigation went on with Juan Sebastian Elcano taking the lead.
+- Navigation went on with *Juan Sebastian Elcano taking the lead.*
 - they sailed to Sulu Sea, Palawan, Brunei, and Malaku Islands of Indonesia (Spice Islands)
 - Trinidad had to be repaired in Indonesia
 - **February 1522** - Elcano and his remaining men tried to go back to Spain via *Cebu* but was captured with the ship Trinidad.

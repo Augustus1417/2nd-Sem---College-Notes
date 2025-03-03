@@ -21,6 +21,7 @@
 5. *Adding context*
 6. *Adding value*
 
+--- 
 #### Information
 - is a set of data which is processed in a meaningful way according to the given requirement
 
@@ -36,6 +37,7 @@ Companies can get data from the following:
 - *Instant Messaging*
 - *Electronic Publishing*
 
+--- 
 #### Management
 - the organization of and control over the structure, processing, and delivery of information.
 - According to *Theo Heimann*, management has three different meanings;
@@ -50,6 +52,7 @@ Companies can get data from the following:
 - *Methods*
 - *Markets*
 
+--- 
 #### Information Management 
 - is the *collection and management of information from one or more sources* and the distribution of that information to one or more audiences.
 - is the *management of organizational processes and systems* that acquire, create, organize, distribute, and use information

@@ -1,0 +1,69 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "LiSchool",
+      "LiHome",
+      "LiAlarmClockOff",
+      "LiSmartphone",
+      "LiMicroscope"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "lucideIconPackType": "native",
+    "debugMode": false,
+    "useInternalPlugins": false
+  },
+  "Algorithms and Complexity": {
+    "iconName": "LiCode2",
+    "iconColor": "#f38ba8"
+  },
+  "Information Management": {
+    "iconName": "LiDatabase",
+    "iconColor": "#b4befe"
+  },
+  "Reading Visual Arts": {
+    "iconName": "LiBrush",
+    "iconColor": "#fab387"
+  },
+  "Mobile Programming": {
+    "iconName": "LiSmartphone",
+    "iconColor": "#74c7ec"
+  },
+  "Probability and Statistics": {
+    "iconName": "LiChartLine",
+    "iconColor": "#f9e2af"
+  },
+  "Readings in Philippine History": {
+    "iconName": "LiHistory",
+    "iconColor": "#cdd6f4"
+  },
+  "Science, Technology, and Society": {
+    "iconName": "LiMicroscope",
+    "iconColor": "#a6e3a1"
+  },
+  "Dashboard.md": {
+    "iconName": "LiSchool",
+    "iconColor": "#89b4fa"
+  }
+}

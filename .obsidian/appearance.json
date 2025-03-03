@@ -3,6 +3,9 @@
   "interfaceFontFamily": "CaskaydiaCove Nerd Font",
   "monospaceFontFamily": "CaskaydiaCove Nerd Font Mono",
   "textFontFamily": "CaskaydiaCove Nerd Font",
-  "theme": "obsidian",
-  "showRibbon": false
+  "theme": "system",
+  "showRibbon": false,
+  "baseFontSize": 16,
+  "baseFontSizeAction": true,
+  "accentColor": ""
 }

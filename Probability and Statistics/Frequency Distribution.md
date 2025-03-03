@@ -26,6 +26,8 @@ $$ x_i = -3, 4, 5 $$
 $$ y_i = 2, 6, 1 $$
 Find:  $$\sum_{i=1}^{3} (x_i+y_i)$$
 Solution: $$(-3+2)+(4+6)+(5+1) = 15$$
+
+---
 ##### Frequency Distribution Table
 
 |     |     |     |     |     |     |     |     |     |     |

@@ -7,5 +7,22 @@
       ],
       "key": "E"
     }
+  ],
+  "various-complements:reload-custom-dictionaries": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "R"
+    }
+  ],
+  "app:toggle-right-sidebar": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "R"
+    }
   ]
 }

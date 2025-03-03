@@ -2,8 +2,7 @@
 	- Step by step problem solving procedure especially an established, recursive computational procedure
 	- well-defined procedure to solve a problem
 	- fundamental area of computer science
-- **Algorithmic** - algorithms structured processes used in computing, mathematics, and decision making
-**Algorithmic Processes**
+- **Algorithmic** - the use of algorithms; structured processes used in computing, mathematics, and decision making
 
 | **Purposes**      |                                                                                                      |
 | ----------------- | ---------------------------------------------------------------------------------------------------- |
@@ -26,6 +25,7 @@
 - *Recommendation Algorithm* - suggest content based on user preferences
 - *Navigation Algorithm* - find the shortest route to a destination
 
+---
 ##### Notion of Algorithmic Process
 [[Notion of an Algorithm.canvas|Notion of an Algorithm]]
 - **Problem**
@@ -34,6 +34,7 @@
 - **Computer**
 - **Output**
 
+---
 ##### Representing Algorithm in Programming
 - *Pseudocode* - structured english used to specify an algorithm
 - *Flowchart* - diagramatic representation that illustrates sequence
@@ -48,6 +49,7 @@
 
 **Algorithm Design Technique** - General approach to solving problems algorithmically that is applicable to a variety of problems
 
+---
 ##### Analyzing Algorithms
 **Qualities to consider:**
 1. *Correctness* - must produce the correct output for all valid inputs

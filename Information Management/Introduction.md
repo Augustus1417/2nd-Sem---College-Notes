@@ -1,3 +1,4 @@
+#### Database
 - **Database**
 	- collection of related data and its metadata organized in a structured format
 - **DBMS (Database Management System)**
@@ -40,7 +41,8 @@
 	- **Constraint**
 			- *restrictions* placed on data
 
-
+--- 
+#### SQL
 **SQL**
 - language used to operate database
 - basic language used for all the databases

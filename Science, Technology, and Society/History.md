@@ -11,10 +11,13 @@
 - *History* - 3000 BC to present
 
 **3 Age System** - introduced by Christian Jurgensen Thomsen, a danish antiquarian
-	*- Stone Age* - lasted 3.4 million years
-	*- Bronze Age* - followed Neolithic period, alloy of copper and tin
-	*- Iron Age* - 1200 BC to 600 BC
+	- **Stone Age** - *lasted 3.4 million years*
+	- **Bronze Age** - followed Neolithic period, alloy of copper and tin, *2000 - 500 BC*
+	- **Iron Age** - *1200 BC - 600 BC*
 
 **AD** = Anno Domini
 
-**Middle Age**: Medieval Period
+##### Stone Age
+- **Paleolithic (Old Stone Age)** - 2.5 million years ago
+- **Mesolithic (Middle Stone Age)** - 15,000 years ago
+- **Neolithic (New Stone Age)** - around 7000 - 1000 BC
