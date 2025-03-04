@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "README.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -205,13 +205,13 @@
   },
   "active": "3b3416cbfaafc953",
   "lastOpenFiles": [
+    "preview.png",
+    "Dashboard.md",
+    "README.md",
     "Algorithms and Complexity/Sample Problems.md",
     "Algorithms and Complexity/Algorithm Analysis.md",
     "Algorithms and Complexity/Algorithms and Complexity.md",
-    "Dashboard.md",
     "Information Management/Information Management.md",
-    "README.md",
-    "Images/Pasted image 20250304122936.png",
     "Pasted image 20250304122926.png",
     "Images",
     "Untitled.md",
