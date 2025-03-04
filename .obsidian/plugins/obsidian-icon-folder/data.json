@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "SiReadme",
       "LiImages",
       "LiSchool",
       "LiHome",
-      "LiAlarmClockOff",
-      "LiSmartphone"
+      "LiAlarmClockOff"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -65,5 +65,6 @@
   "Dashboard.md": {
     "iconName": "LiSchool",
     "iconColor": "#89b4fa"
-  }
+  },
+  "README.md": "SiReadme"
 }
