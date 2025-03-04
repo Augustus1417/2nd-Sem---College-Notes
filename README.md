@@ -1,6 +1,6 @@
 ## Obsidian 2nd Semester College Notes
 
-![[preview.png]]
+![preview.png](preview.png)
 #### Courses
 - Algorithms and Complexity
 - Information Management
