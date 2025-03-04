@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Information Management/Data, Information, and Management.md",
-                "mode": "preview",
+                "file": "README.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Data, Information, and Management"
+              "title": "README"
             }
           }
         ],
@@ -203,13 +203,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9e791dff4729b78d",
+  "active": "3b3416cbfaafc953",
   "lastOpenFiles": [
+    "Images/Pasted image 20250304122936.png",
     "README.md",
+    "Pasted image 20250304122926.png",
+    "Images",
+    "Untitled.md",
+    "Dashboard.md",
     "Information Management/Data, Information, and Management.md",
     "Information Management/Information Management.md",
     "Information Management/Introduction.md",
-    "Dashboard.md",
     "Probability and Statistics/Probability and Statistics.md",
     "Algorithms and Complexity/Algorithm Analysis.md",
     "Algorithms and Complexity/Sample Problems.md",
@@ -230,7 +234,6 @@
     "Reading Visual Arts/Introduction.md",
     "Probability and Statistics/Frequency Distribution.md",
     "Information Management/SQL Basics.md",
-    "Readings in Philippine History/Historical Research.md",
     "Readings in Philippine History",
     "Reading Visual Arts",
     "Untitled.canvas",
