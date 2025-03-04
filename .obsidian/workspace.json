@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "3f0778046ecdc3d6",
+        "id": "ea2e77d3be207aaf",
         "type": "tabs",
         "children": [
           {
-            "id": "c90ccc4d2a9a219e",
+            "id": "3b3416cbfaafc953",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorithms and Complexity/Sample Problems.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sample Problems"
+              "title": "README"
             }
           }
         ],
@@ -161,12 +161,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of README"
             }
           }
         ],
@@ -202,35 +203,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a363b679d5525df7",
+  "active": "3b3416cbfaafc953",
   "lastOpenFiles": [
+    "Dashboard.md",
     "README.md",
-    "Algorithms and Complexity/Sample Problems.md",
+    "Information Management/Data, Information, and Management.md",
+    "Information Management/Information Management.md",
+    "Information Management/Introduction.md",
     "Algorithms and Complexity/Algorithm Analysis.md",
+    "Algorithms and Complexity/Sample Problems.md",
     "Algorithms and Complexity/Algorithms and Complexity.md",
     "Algorithms and Complexity/Algorithm Design Technique.md",
+    "Algorithms and Complexity/Introduction.md",
+    "Algorithms and Complexity/Notion of an Algorithm.canvas",
+    "Information Management/Database Systems.md",
+    "Mobile Programming/Mobile Programming.md",
     "Probability and Statistics/Measures of Central Tendency.md",
     "Probability and Statistics/Untitled.md",
     "Probability and Statistics/Probability and Statistics.md",
     "Science, Technology, and Society/Government.md",
     "Science, Technology, and Society/History.md",
-    "Dashboard.md",
-    "Algorithms and Complexity/Introduction.md",
-    "Algorithms and Complexity/Notion of an Algorithm.canvas",
     "Readings in Philippine History/Magellan's Journey.md",
-    "Information Management/Database Systems.md",
     "Information Management/Centralized Database.md",
     "Information Management/Cloud Database.md",
     "Information Management/Distributed Database.md",
-    "Information Management/Information Management.md",
-    "Information Management/Data, Information, and Management.md",
-    "Information Management/Introduction.md",
     "Reading Visual Arts/Introduction.md",
     "Probability and Statistics/Frequency Distribution.md",
     "Information Management/SQL Basics.md",
     "Readings in Philippine History/Historical Research.md",
-    "Readings in Philippine History/Readings in Philippine History.md",
-    "Probability and Statistics/Data.md",
     "Readings in Philippine History",
     "Reading Visual Arts",
     "Untitled.canvas",

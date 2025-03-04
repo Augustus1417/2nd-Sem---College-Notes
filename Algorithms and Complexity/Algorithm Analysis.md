@@ -1,5 +1,5 @@
-An important part of computation complexity theory, which provides theoretical estimation for the required resources of an algorithm to solve a specific computational problem
-
+- An important part of computation complexity theory, which provides theoretical estimation for the required resources of an algorithm to solve a specific computational problem
+--- 
 #### Algorithm
 - **3 Components:**
 	- *Input*
@@ -40,10 +40,65 @@ Factors affecting time complexity
 - *Apriori Analysis* - amount of time a single execution will take, or the number of times a statement is executed (line by line of code)
 - *Aposteriori Analysis* - determines the efficiency based on actual experiments, the study of exact time and space required for execution (whole performance)
 
-**Frequency Count** - refers to the number of statements or steps needed by the algorithm to finish
-
-Simple statement: 
+#### Frequency Count
+ - refers to the *number of statements or steps needed by the algorithm* to finish
+##### Simple statement: 
 ``` python
 	a = 10 # (Count: 1)
 	b = a * 5 # (Count: 1)
 ```
+
+##### Conditional Statement
+```c#
+if (x > 5){ // --> 1
+	y = 15; // --> 1 (cancelled out else statement has more)
+}
+else {
+	y = 25; // --> 1
+	z = 45; // --> 1 = 2
+}
+//                 Total Count = 3
+```
+
+##### Iterative Statement
+```python
+for i = <lb> to <ub> # ub - lb + 2
+	<S1> #             ub - lb + 1
+```
+Sample:
+```python 
+for i = 1 to n: # n - 1 + 2 = n+1
+	x = x + 1   # n -1 + 1 = n
+                # total = 2n + 1
+```
+
+##### Sample Iterative & Conditional
+```c# 
+if (x<1){ // --> 1
+	y = 10; // --> 1 (cancelled out)
+} else if (x>2) { // --> 1
+	y = 25;
+	z = 35; // --> 2 (cancelled out)
+} else {
+	for (i = 1 to x) { // x - 1 + 2 = x + 1
+		print(i)       // x - 1 + 1 = x
+					   // total = 2x + 3
+	}
+}
+```
+
+##### Nested Loops
+```python
+for i = <lb> to <ub>: # ub - lb + 2
+	<S1>              # ub - lb + 1
+	for j = <lb> to <ub>: # ub - lb + 2 (-1 from 1st loop)
+		<S2> # ub - lb + 1 (-1 from 1st loop)
+```
+
+Sample:
+```python
+for i = 2 to n-1: # 
+	for j = 1 to n:
+		x = x + 1
+```
+##### [[Sample Problems]] 

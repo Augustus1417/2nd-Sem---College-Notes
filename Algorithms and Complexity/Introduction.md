@@ -1,8 +1,9 @@
 - **Algorithm** 
-	- Step by step problem solving procedure especially an established, recursive computational procedure
-	- well-defined procedure to solve a problem
-	- fundamental area of computer science
-- **Algorithmic** - the use of algorithms; structured processes used in computing, mathematics, and decision making
+	- *Step by step problem solving procedure* especially an established, recursive computational procedure
+	- *well-defined procedure to solve a problem*
+	- *fundamental area of computer science*
+- **Algorithmic** 
+	- the *use of algorithms*; structured processes used in computing, mathematics, and decision making
 
 | **Purposes**      |                                                                                                      |
 | ----------------- | ---------------------------------------------------------------------------------------------------- |
