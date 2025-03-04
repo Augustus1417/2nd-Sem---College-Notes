@@ -1,4 +1,4 @@
-#### Data 
+	#### Data 
 - can be defined as a representation of facts, concepts or instructions in a formalized manner, which would be suitable for *communication, interpretation, or processing by human or electronic machine.*
 - Driven by User
 - created by *Individuals* and *Businesses*

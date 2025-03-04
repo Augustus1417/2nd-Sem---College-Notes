@@ -24,11 +24,10 @@
 
 --- 
 #### Installation
+1. Clone repository
 ```bash
 git clone https://github.com/Augustus1417/2nd-Sem--College-Notes/tree/main
-rm -rf .git
-
-# Then open the directory as an Obsidian Vault
 ```
+2. Open as Obsidian Vault
 
 Or download as zip and extract then open as vault

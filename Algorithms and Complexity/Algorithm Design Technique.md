@@ -23,6 +23,7 @@ Array: [29, 12, 14, 22, 27, 15, 17, 24]
 ---
 ### Quick Sort
 - Developed by C.A.R. Hoare in 1962
+- Partition Operation
 
 **Steps:**
 Array: [16, 23, 14, 28, 13, 11, 21, 26]
@@ -83,3 +84,4 @@ $$B = 1$$
 ###### Breadth-first traversal 
 - proceeds horizontally from the root *to all of its children, then to its children's children*
 
+	
