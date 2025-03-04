@@ -30,3 +30,5 @@ rm -rf .git
 
 # Then open the directory as an Obsidian Vault
 ```
+
+Or download as zip and extract then open as vault
