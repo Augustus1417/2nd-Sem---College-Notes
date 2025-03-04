@@ -1,7 +1,7 @@
 #### What is DBMS?
 **Database Management System (DBMS)** 
-- are software for storing and retrieving users' data while considering appropriate security measures.
-- it provides an interface to perform various operations 
+- *are software for storing and retrieving users' data* while considering appropriate security measures.
+- it *provides an interface to perform various operations* 
 ##### DBMS allows users to do the following:
 - **Data Definition** - *creation, modification, removal* of definition of the organization of data
 - **Data Updation** - *insertion, modification, deletion* of actual data
@@ -77,9 +77,9 @@
 - **Operational Database or Online** - designed to *support a company's day to day* operations
 ---
 #### Analytical Databases
-- stores and manages big data, including business, market, and customer data for business intelligence analysis
-- are specially optimized for faster queries and scalability
-- designed to quickly analyze massive amounts of data 
+- *stores and manages big data, including business, market, and customer data* for business intelligence analysis
+- are *specially optimized for faster queries and scalability*
+- designed to *quickly analyze massive amounts of data* 
 - 1000 times faster than an operational database for demanding analytical workloads
 ##### Examples of Analytical Databases
 - **Market data** - historical price and volume data for financial markets

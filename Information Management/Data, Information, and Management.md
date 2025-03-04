@@ -23,7 +23,7 @@
 
 --- 
 #### Information
-- is a set of data which is processed in a meaningful way according to the given requirement
+- is a *set of data which is processed in a meaningful way* according to the given requirement
 
 ##### Where does Data & Information come from?
 Companies can get data from the following:
@@ -39,7 +39,7 @@ Companies can get data from the following:
 
 --- 
 #### Management
-- the organization of and control over the structure, processing, and delivery of information.
+- the *organization of and control over the structure, processing, and delivery of information*.
 - According to *Theo Heimann*, management has three different meanings;
 	- **Noun** - *group of managers*
 	- **Process** - *functions of Management* (Planning, Organizing, Directing, Controlling)

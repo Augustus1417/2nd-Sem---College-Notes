@@ -1,10 +1,10 @@
 #### Database
 - **Database**
-	- collection of related data and its metadata organized in a structured format
+	- *collection of related data and its metadata* organized in a structured format
 - **DBMS (Database Management System)**
-	- software that enables easy creation, access, and modification of databases
+	- *software that enables easy creation, access, and modification* of databases
 - **Database System**
-	- integrated system of hardware, storage, management, and use of data within a database environment
+	- *integrated system of hardware, storage, management, and use of data* within a database environment
 
 **Purpose of Database**
 - Optimized data management
