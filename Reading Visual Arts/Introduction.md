@@ -1,11 +1,25 @@
-##### Visual Arts
-- are a broad category that encompasses all forms of artistic expression that appeal to the sense of sight
-- are a powerful tool for communications, self-expression, and storytelling.
+### Visual Arts
+- are a *broad category that encompasses all forms of artistic expression* that appeal to the sense of sight
+- are a *powerful tool for communications, self-expression, and storytelling*.
 
-##### Basic Primary Elements of Visual Arts
+---
+#### Importance of Visual Arts in Computer Science
+- **Enhanced User Experience** - principles like color theory, composition, and typography enhance user interfaces
+- **Visual Storytelling** - are crucial in conveying complex information
+- **Design Thinking** - visual arts foster creativity, problem-solving, and focus on aesthetics
+
+---
+#### Practical Applications of Visual Arts in Computer Science
+- **Game Design** 
+- **User Interface Design** 
+- **Data Visualization**
+- **Virtual and Augmented Reality**
+
+---
+#### Basic Primary Elements of Visual Arts
 - **Line** 
-	- a continuous mark made on surface by a moving point
-	- can be straight, curved, horizontal, vertical, diagonal, etc.
+	- a *continuous mark made on surface* by a moving point
+	- can be *straight, curved, horizontal, vertical, diagonal*, etc.
 	- used to define shapes, create textures, suggest movement, and lead the viewer's eye 
 - **Shapes**
 	- *Geometric*: precise and mathematical
