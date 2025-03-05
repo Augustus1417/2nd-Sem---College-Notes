@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorithms and Complexity/Algorithm Analysis.md",
+                "file": "Reading Visual Arts/Art of Colors.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Algorithm Analysis"
+              "title": "Art of Colors"
             }
           }
         ],
@@ -97,7 +97,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 370
+    "width": 370,
+    "collapsed": true
   },
   "right": {
     "id": "8851b3aa5cfcb98b",
@@ -161,13 +162,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorithms and Complexity/Algorithm Analysis.md",
+                "file": "Reading Visual Arts/Art of Colors.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Algorithm Analysis"
+              "title": "Outline of Art of Colors"
             }
           }
         ],
@@ -191,7 +192,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -205,14 +207,25 @@
   },
   "active": "ed35a95822ba7974",
   "lastOpenFiles": [
+    "Reading Visual Arts/Reading Visual Arts.md",
+    "Reading Visual Arts/Introduction.md",
+    "Reading Visual Arts/Principles of Design.md",
+    "Dashboard.md",
+    "Reading Visual Arts/Art of Colors.md",
+    "Readings in Philippine History/Readings in Philippine History.md",
+    "Mobile Programming/Kotlin.md",
+    "Mobile Programming/Android Development.md",
+    "Mobile Programming/Mobile Programming.md",
+    "Mobile Programming/Introduction.md",
+    "Mobile Programming/Android Ecosystem.md",
+    "Mobile Programming/Kotlin Functions & Classes.md",
+    "Algorithms and Complexity/Algorithm Analysis.md",
     "Algorithms and Complexity/Sample Problems.md",
     "README.md",
-    "Algorithms and Complexity/Algorithm Analysis.md",
     "Algorithms and Complexity/Introduction.md",
     "preview.png",
     "Algorithms and Complexity/Algorithm Design Technique.md",
     "Algorithms and Complexity/Algorithms and Complexity.md",
-    "Dashboard.md",
     "Algorithms and Complexity/Notion of an Algorithm.canvas",
     "Information Management/Database Systems.md",
     "Information Management/Introduction.md",
@@ -223,17 +236,7 @@
     "Images",
     "Untitled.md",
     "Probability and Statistics/Probability and Statistics.md",
-    "Mobile Programming/Mobile Programming.md",
     "Probability and Statistics/Measures of Central Tendency.md",
-    "Probability and Statistics/Untitled.md",
-    "Science, Technology, and Society/Government.md",
-    "Science, Technology, and Society/History.md",
-    "Readings in Philippine History/Magellan's Journey.md",
-    "Information Management/Cloud Database.md",
-    "Information Management/Distributed Database.md",
-    "Reading Visual Arts/Introduction.md",
-    "Probability and Statistics/Frequency Distribution.md",
-    "Information Management/SQL Basics.md",
     "Readings in Philippine History",
     "Reading Visual Arts",
     "Untitled.canvas",
