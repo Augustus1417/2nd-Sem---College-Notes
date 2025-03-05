@@ -95,6 +95,12 @@ for i = <lb> to <ub>: # ub - lb + 2
 		<S2> # ub - lb + 1 (-1 from 1st loop)
 ```
 
+```python
+for i = <lb> to <ub>: # ub - lb + 2
+	for j = <lb> to <ub>: # ub - lb + 2 (-1 from 1st loop)
+		<S2> # ub - lb + 1 (-1 from 1st loop)
+		for y = 
+```
 Sample:
 ```python
 for i = 2 to n-1: # 
