@@ -1,13 +1,15 @@
-- Is a cross platform, statically typed, general purpose programming language
-- is designed to interoperate fully with java
-
+##### Kotlin
+- Is a *cross platform, statically typed, general purpose programming language*
+- is *designed to interoperate fully with java*
+- sponsored by *JetBrains* and *Google*
+- announced as one of the official languages for Android Development in *2017*
 ##### Data Types
 - **String**
 - **Int**
 - **Double**
 - **Float**
 - **Boolean**
-##### Variables
+##### Syntax
 **Immutable Variables**
 - read-only variables, cannot change
 ```kotlin
@@ -23,6 +25,7 @@ myAge = 20
 print(myAge) //works properly
 ```
 
+**Scope of a variable** - a variable *only exist inside the block of code where it has been declared*.
 **Naming Convention** - lowerCamelCase
 
 **Type Inference**

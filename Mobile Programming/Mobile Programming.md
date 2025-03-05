@@ -1,6 +1,5 @@
 ##### Prelims
 1. [[Mobile Programming/Introduction|Introduction]]
-2. [[Android Ecosystem]]
-3. [[Android Development]]
-4. [[Kotlin]]
-5. [[Kotlin Functions & Classes]]
+2. [[Android Development]]
+3. [[Kotlin]]
+4. [[Kotlin Functions & Classes]]
