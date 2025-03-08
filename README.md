@@ -26,7 +26,7 @@
 #### Installation
 1. Clone repository
 ```bash
-git clone https://github.com/Augustus1417/2nd-Sem--College-Notes/tree/main
+git clone https://github.com/Augustus1417/2nd-Sem---College-Notes.git
 ```
 2. Open as Obsidian Vault
 
