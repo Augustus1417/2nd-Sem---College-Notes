@@ -1,3 +1,4 @@
+**Previous: [[Algorithms and Complexity/Introduction|Introduction]]**
 #### Divide-and-Conquer
 - Solves a problem's instance by dividing into several smaller instances, solving each of them recursively
 
@@ -84,4 +85,4 @@ $$B = 1$$
 ###### Breadth-first traversal 
 - proceeds horizontally from the root *to all of its children, then to its children's children*
 
-	
+**Next: [[Algorithm Analysis]]**

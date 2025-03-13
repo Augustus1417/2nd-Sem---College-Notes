@@ -1,3 +1,5 @@
+**Previous: [[Algorithm Design Technique]]**
+#### Algorithm Analysis
 - An important part of computation complexity theory, which provides theoretical estimation for the required resources of an algorithm to solve a specific computational problem
 --- 
 #### Algorithm
