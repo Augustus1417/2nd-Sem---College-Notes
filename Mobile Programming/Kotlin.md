@@ -3,13 +3,18 @@
 - is *designed to interoperate fully with java*
 - sponsored by *JetBrains* and *Google*
 - announced as one of the official languages for Android Development in *2017*
+
+---
 ##### Data Types
 - **String**
 - **Int**
 - **Double**
 - **Float**
 - **Boolean**
-##### Syntax
+
+---
+### Syntax
+##### Variables
 **Immutable Variables**
 - read-only variables, cannot change
 ```kotlin
@@ -56,6 +61,7 @@ val message = "Hello, " + $name
 print(message) //prints "Hello, Jed"
 ```
 
+---
 ##### Operators
 - **Arithmetic** - perform common mathematical operations
 - **Relational** - AKA comparison operators, used to compare two values and return boolean values
@@ -63,6 +69,7 @@ print(message) //prints "Hello, Jed"
 - **Unary** - operators that work with only one operand (increment/decrement)
 - **Logical** - determine logic between two variables 
 
+---
 ##### Kotlin Input
 ```kotlin
 val name = readLine()
@@ -76,11 +83,13 @@ import java.util.Scanner
 val name = Scanner(System.`in`)
 ```
 
+---
 #### Comments
 ```kotlin
 // This is a comment
 ```
 
+---
 ##### If...Else Statements
 ```kotlin
 if (condition){
@@ -96,6 +105,7 @@ val b = 5
 val variable = if (a>b) a else b // variable = 10
 ```
 
+---
 ##### When statement
 - works like switch case
 ```kotlin
@@ -130,6 +140,7 @@ var day = when(number) {
 }
 ```
 
+---
 #### Loops
 ##### While Loop
 ```kotlin

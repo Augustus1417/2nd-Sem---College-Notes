@@ -72,3 +72,5 @@
 - *Combinatorial* - permutations
 - *Geometrical* - points, lines, polygons for computer graphics 
 - *Numerical* - mathematical problems
+
+**Next Lesson: [[Algorithm Design Technique]]**

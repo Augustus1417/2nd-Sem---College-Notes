@@ -15,6 +15,7 @@ fun addNumbers (a: int, b: int): Int {
 print(addNumbers(1,2))
 ```
 
+---
 #### Classes
 - is a blueprint for objects
 ```kotlin
